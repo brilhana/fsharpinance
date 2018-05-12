@@ -1,3 +1,3 @@
 # f#inance
 
-Assorted financial models implemented in F#.
+Assorted financial models in F#.
